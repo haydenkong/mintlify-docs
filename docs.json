@@ -19,51 +19,22 @@
           {
             "group": "Introduction",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           }
         ]
       },
       {
         "tab": "PixelVerseAI",
-        "groups": [
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "tab": "HelloAI",
-        "groups": [
-          {
-            "group": "Content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "tab": "PixelVerse Platforms",
-        "groups": [
-          {
-            "group": "Integrations",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "tab": "Help & Contact",
@@ -71,7 +42,7 @@
           {
             "group": "Get in Touch",
             "pages": [
-              "contact"
+              "images"
             ]
           }
         ]
@@ -80,13 +51,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "About PixelVerseIT",
+          "href": "https://pixelverse.tech/about",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Try PixelVerseAI",
+          "href": "https://ai.pixelverse.tech",
           "icon": "newspaper"
         }
       ]
@@ -100,7 +71,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Email Support",
         "href": "mailto:hello@pixelverse.tech"
       }
     ],
