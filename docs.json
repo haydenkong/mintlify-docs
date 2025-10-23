@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "PixelVerse Support",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0867DF",
+    "light": "#4BA1FF",
+    "dark": "#064BB5"
   },
   "favicon": "/favicon.svg",
   "navigation": {
