@@ -91,7 +91,8 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "height": 40
   },
   "navbar": {
     "links": [
@@ -117,6 +118,9 @@
       "cursor",
       "vscode"
     ]
+  },
+  "layout": {
+  "toc": false
   },
   "footer": {
     "socials": {
