@@ -20,29 +20,55 @@
               "quickstart",
               "development"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Customization",
+        "groups": [
           {
-            "group": "Customization",
+            "group": "Essentials",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Writing",
+        "groups": [
           {
-            "group": "Writing content",
+            "group": "Content",
             "pages": [
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "AI Tools",
+        "groups": [
           {
-            "group": "AI tools",
+            "group": "Integrations",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Help & Contact",
+        "groups": [
+          {
+            "group": "Get in Touch",
+            "pages": [
+              "contact"
             ]
           }
         ]
@@ -71,7 +97,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@pixelverse.tech"
+        "href": "mailto:hello@pixelverse.tech"
       }
     ],
     "primary": {
@@ -94,9 +120,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x-twitter": "https://x.com/pixelverseIT",
+      "github": "https://github.com/PixelVerseIT",
+      "instagram": "https://instagram.com/pixelverseit",
+      "youtube": "https://youtube.com/@pixelverseIT"
     }
   }
 }
