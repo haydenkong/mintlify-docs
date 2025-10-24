@@ -1,0 +1,70 @@
+# PixelVerse Forms - Onboarding
+
+Document PXVS-F02 - Last updated: 23 August 2025
+
+This article will cover:
+
+1. What is PixelVerse Forms
+2. How it works.
+3. Dashboard & Unlock more functionality
+4. Anti-spam protection
+5. Sample Email
+
+> TLDR:
+>
+> PixelVerse Forms is already set up for you! From now on, when a visitor submits the contact form on your website, both you and the visitor will get a email with the submission details. From then on, it acts like an regular email chain. You can respond to the confirmation email to reply to the visitor.
+> 
+> **No additional cost is required, as you are an existing PixelVerseIT client :)**
+
+## About PixelVerse Forms
+
+PixelVerse Forms is a robust form system built by us with a focus for contact forms on websites. 64% of visitors want to see contact information on the homepage, and 44% will leave if they cannot find it. Modern day websites, especially no-code website builders like Wix or Squarespace incorporate forms and notifications emails.
+
+However, PixelVerse Forms is built from the ground up to remove any friction from communication from the guest who submits the form and the site owner/support personnel.
+
+## How it works
+
+PixelVerse Forms is already set up for you!
+
+Here’s what happens:
+
+1. When a visitor submits your contact form, **both you and the visitor receive a confirmation email** with all the submission details.
+2. To respond, simply **reply directly to the confirmation email you receive**.
+3. The system is two-way - meaning the visitor can reply back, and their response goes straight to you without requiring a dashboard, extra logins, or unnecessary steps.
+
+This ensures smooth, direct communication with your website visitors, just like email, but with the simplicity of a contact form.
+
+## PixelVerse Forms - Dashboard & No-codeReq
+
+> Let us know if you are interested in accessing this feature!
+
+PixelVerse Forms also comes with a **no-code embed feature**, making it easy to add forms to any website without touching code.
+
+In addition, PixelVerse Forms is a growing platform with a **dashboard and integrated** to view responses and form stats. While the dashboard UI is currently in beta, it’s not required for day-to-day use. The system was designed so that you can fully manage replies and communication straight from your email - meaning you don’t need to learn or log into a separate dashboard to respond to visitors.
+
+## Spam with PixelVerse Forms
+
+PixelVerse Forms includes built-in **anti-spam protection** to keep your inbox clean and your communication focused.
+
+We reduce spam by using **honeypot fields**. These are invisible fields added to your form that normal visitors never see. Spam bots, however, usually fill out every field they detect - which instantly flags the submission as spam and blocks it.
+
+This way, your inbox stays clear of unwanted messages without adding extra friction for real visitors.
+
+
+> We don’t send confirmation emails (both to you and the “visitor”/bot) to submissions marked as spam. However, all spam submissions are marked and can be viewed in the PixelVerse Forms dashboard.
+> 
+>Real humans will never fill in honeypot fields, as they are hidden and invisible in the page.
+
+## Sample email
+
+Below is a sample email. The form name and form submission details are included.
+
+PixelVerse Forms notifications emails are sent from [forms@emails.pixelverse.tech](mailto:forms@emails.pixelverse.tech). Please note that this email address cannot receive mail.
+
+![Screenshot 2025-08-23 at 8.37.34 pm.png](PixelVerse%20Forms%20-%20Onboarding%20258ef47565a8800fab37d3af5769b0d8/Screenshot_2025-08-23_at_8.37.34_pm.png)
+
+If you have any questions, please reach out to us at [hello@pixelverse.tech](mailto:hello@pixelverse.tech) and we will assist you there!
+
+Thank you!
+
+Hayden
