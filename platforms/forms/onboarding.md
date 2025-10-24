@@ -1,3 +1,7 @@
+---
+title: 'Client Onboarding'
+---
+
 Document PXVS-F02 - Last updated: 23 August 2025
 
 This article will cover:
