@@ -90,16 +90,10 @@
     "height": 40
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Email Support",
-        "href": "mailto:hello@pixelverse.tech"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Back to PixelVerseIT",
-      "href": "https://pixelverse.tech"
+      "label": "Email us",
+      "href": "mailto:support@pixelverse.tech"
     }
   },
   "contextual": {
