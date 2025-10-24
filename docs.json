@@ -12,65 +12,58 @@
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "Support Home",
+        "product": "Support Home",
+        "icon": "house",
         "groups": [
           {
             "group": "Introduction",
-            "pages": [
-              "index"
-            ]
+            "pages": ["index"]
           }
         ]
       },
       {
-        "tab": "PixelVerseAI",
+        "product": "PixelVerseAI",
+        "icon": "brain",
         "groups": [
           {
             "group": "Introduction",
-            "pages": [
-              "pixelverseai/welcome"
-            ]
+            "pages": ["pixelverseai/welcome"]
           }
         ]
       },
       {
-        "tab": "HelloAI",
+        "product": "HelloAI",
+        "icon": "robot",
         "groups": [
           {
             "group": "Introduction",
-            "pages": [
-              "helloai/welcome"
-            ]
+            "pages": ["helloai/welcome"]
           }
         ]
       },
       {
-        "tab": "PixelVerse Platforms",
+        "product": "PixelVerse Platforms",
+        "icon": "layer-group",
         "groups": [
           {
             "group": "Introduction",
-            "pages": [
-              "platforms/welcome"
-            ]
+            "pages": ["platforms/welcome"]
           },
           {
             "group": "PixelVerse Forms",
-            "pages": [
-              "platforms/forms/onboarding"
-            ]
+            "pages": ["platforms/forms/onboarding"]
           }
         ]
       },
       {
-        "tab": "Help & Contact",
+        "product": "Help & Contact",
+        "icon": "circle-question",
         "groups": [
           {
             "group": "Get in Touch",
-            "pages": [
-              "support/images"
-            ]
+            "pages": ["support/images"]
           }
         ]
       }
@@ -103,16 +96,7 @@
     }
   },
   "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
+    "options": ["copy", "view", "chatgpt", "claude", "perplexity", "mcp", "cursor", "vscode"]
   },
   "layout": {
     "toc": false
