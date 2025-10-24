@@ -30,6 +30,25 @@
           {
             "group": "Introduction",
             "pages": ["pixelverseai/welcome"]
+          },
+          {
+            "group": "General",
+            "pages": ["pixelverseai/general/about-us"]
+          },
+          {
+            "group": "Chats",
+            "pages": [
+              "pixelverseai/chats/signup",
+              "pixelverseai/chats/start-guide",
+              "pixelverseai/chats/billing"
+            ]
+          },
+          {
+            "group": "Labs",
+            "pages": [
+              "pixelverseai/labs/features",
+              "pixelverseai/labs/start-guide"
+            ]
           }
         ]
       },
