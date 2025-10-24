@@ -26,15 +26,36 @@
       },
       {
         "tab": "PixelVerseAI",
-        "groups": []
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "pixelverseai/welcome"
+            ]
+          }
+        ]
       },
       {
         "tab": "HelloAI",
-        "groups": []
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "hellaoi/welcome"
+            ]
+          }
+        ]
       },
       {
         "tab": "PixelVerse Platforms",
-        "groups": []
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "platforms/welcome"
+            ]
+          }
+        ]
       },
       {
         "tab": "Help & Contact",
