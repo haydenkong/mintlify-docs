@@ -54,6 +54,12 @@
             "pages": [
               "platforms/welcome"
             ]
+          },
+          {
+            "group": "PixelVerse Forms",
+            "pages": [
+              "platforms/forms/onboarding"
+            ]
           }
         ]
       },

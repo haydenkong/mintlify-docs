@@ -13,7 +13,7 @@ This article will cover:
 > TLDR:
 >
 > PixelVerse Forms is already set up for you! From now on, when a visitor submits the contact form on your website, both you and the visitor will get a email with the submission details. From then on, it acts like an regular email chain. You can respond to the confirmation email to reply to the visitor.
-> 
+>
 > **No additional cost is required, as you are an existing PixelVerseIT client :)**
 
 ## About PixelVerse Forms
@@ -50,10 +50,9 @@ We reduce spam by using **honeypot fields**. These are invisible fields added to
 
 This way, your inbox stays clear of unwanted messages without adding extra friction for real visitors.
 
-
 > We don’t send confirmation emails (both to you and the “visitor”/bot) to submissions marked as spam. However, all spam submissions are marked and can be viewed in the PixelVerse Forms dashboard.
-> 
->Real humans will never fill in honeypot fields, as they are hidden and invisible in the page.
+>
+> Real humans will never fill in honeypot fields, as they are hidden and invisible in the page.
 
 ## Sample email
 
@@ -61,7 +60,7 @@ Below is a sample email. The form name and form submission details are included.
 
 PixelVerse Forms notifications emails are sent from [forms@emails.pixelverse.tech](mailto:forms@emails.pixelverse.tech). Please note that this email address cannot receive mail.
 
-![Screenshot 2025-08-23 at 8.37.34 pm.png](PixelVerse%20Forms%20-%20Onboarding%20258ef47565a8800fab37d3af5769b0d8/Screenshot_2025-08-23_at_8.37.34_pm.png)
+![Screenshot_2025-08-23_at_8.37.34_pm.png](/images/Screenshot_2025-08-23_at_8.37.34_pm.png)
 
 If you have any questions, please reach out to us at [hello@pixelverse.tech](mailto:hello@pixelverse.tech) and we will assist you there!
 
